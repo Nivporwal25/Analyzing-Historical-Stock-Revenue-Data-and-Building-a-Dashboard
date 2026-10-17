@@ -1,0 +1,5 @@
+# Ignore certificate PDFs and local artifacts
+*.pdf
+.ipynb_checkpoints/
+__pycache__/
+*.log
