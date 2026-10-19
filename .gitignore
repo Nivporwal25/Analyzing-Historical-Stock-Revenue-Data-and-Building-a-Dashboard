@@ -1,5 +1,7 @@
 # Ignore certificate PDFs and local artifacts
 *.pdf
+!Data Science Capstone Project Report.pdf
+!Data_Science_Capstone_Project_Report.pdf
 .ipynb_checkpoints/
 __pycache__/
 *.log
